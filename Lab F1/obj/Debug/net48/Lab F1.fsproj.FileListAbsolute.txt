@@ -1,0 +1,23 @@
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/Lab F1.exe.config
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/Lab F1.exe
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/Lab F1.pdb
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/FSharp.Core.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/cs/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/de/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/es/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/fr/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/it/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/ja/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/ko/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/pl/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/pt-BR/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/ru/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/tr/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/zh-Hans/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/bin/Debug/net48/zh-Hant/FSharp.Core.resources.dll
+/home/craftix/RiderProjects/Lab F1/Lab F1/obj/Debug/net48/Lab F1.fsprojAssemblyReference.cache
+/home/craftix/RiderProjects/Lab F1/Lab F1/obj/Debug/net48/Lab F1.AssemblyInfoInputs.cache
+/home/craftix/RiderProjects/Lab F1/Lab F1/obj/Debug/net48/Lab F1.AssemblyInfo.fs
+/home/craftix/RiderProjects/Lab F1/Lab F1/obj/Debug/net48/Lab F1.fsproj.CopyComplete
+/home/craftix/RiderProjects/Lab F1/Lab F1/obj/Debug/net48/Lab F1.exe
+/home/craftix/RiderProjects/Lab F1/Lab F1/obj/Debug/net48/Lab F1.pdb
